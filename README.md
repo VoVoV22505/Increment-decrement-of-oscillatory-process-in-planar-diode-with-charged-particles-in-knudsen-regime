@@ -1,1 +1,2 @@
 # Increment-decrement-of-oscillatory-process-in-planar-diode-with-charged-particles-in-knudsen-regime
+After main non-stationary program finish its calculations of the electric field, we use this one to get increment or decrement from field data. At the start we set initial increment "G1" and period "PE1" with step for changing both. Then we merely implement the least square method. Initial G1 and PE1 are taken from analitical estimation using picture of electric field oscillations.
